@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ncertsolutionsmathsclass9</title>
+</head>
+<body>
+    <h1>Maths solutions class 9 </h1>      
+        
+     <h2>NCERT Solutions for Class 9 Maths Chapter 10 Circles</h2>
+<h3>NCERT Solutions for Class 9 Maths Chapter 10 Circles Ex 10.1 are part of NCERT Solutions for Class 9 Maths. Here we have given NCERT Solutions for Class 9 Maths Chapter 10 Circles Ex 10.1.</h3>
+        
+<p>Ex 10.1 Class 9 Maths Question 1.<br>
+    Fill in the blanks.<br>
+    (i) The centre of a circle lies in ___ of the circle. (exterior/interior)<br>
+    (ii) A point, whose distance from the centre of a circle is greater than its radius lies in ____ of the circle, (exterior/interior)<br>
+    (iii) The longest chord of a circle is a ____ of the circle.<br>
+    (iv) An arc is a ____ when its ends are the ends of a diameter.<br>
+    (v) Segment of a circle is the region between an arc and ____ of the circle.<br>
+    (vi) A circle divides the plane, on which it lies, in ____ parts.<br>
+    Solution:<br>
+    (i) interior<br>
+    (ii) exterior<br>
+    (iii) diameter<br>
+    (iv) semicircle<br>
+    (v) the chord<br>
+    (vi) three</p>
+    <p>Ex 10.1 Class 9 Maths&nbsp;Question 2.<br>
+        Write True or False. Give reason for your answers.<br>
+        (i) Line segment joining the centre to any point on the circle is a , radius of the circle.<br>
+        (ii) A circle has only finite number of equal chords.<br>
+        (iii) If a circle is divided into three equal arcs, each is a major arc.<br>
+        (iv) A chord of a circle, which is twice as long as its radius, is a diameter of the circle.<br>
+        (v) Sector is the region between the chord and its corresponding arc.<br>
+        (vi) A circle is a plane figure.<br>
+        Solution:<br>
+        (i) True [∵ All points on the circle are equidistant from the centre]<br>
+        (ii) False [ ∵ A circle can have an infinite number of equal chords]<br>
+        (iii) False [∵ Each part will be less than a semicircle]<br>
+        (iv) True [ ∵ Diameter = 2 x Radius]<br>
+        (v) False [ ∵ The region between the chord and its corresponding arc is a segment]<br>
+        (vi) True [ ∵ A circle is drawn on a plane]</p>
+
+
+        <h3>NCERT Solutions for Class 9 Maths Chapter 10 Circles Ex 10.2</h3>
+<p>Ex 10.2 Class 9 Maths Question 1.<br>
+Recall that two circles are congruent, if they have the same radii. Prove that equal chords of congruent circles subtend equal angles at their centres<br>
+Solution:<br>
+Given: Two congruent circles with centres O and O’ and radii r, which have chords AB and CD respectively such that AB = CD.<br>
+To Prove: ∠AOB = ∠CO’D<br>
+Proof: In ∆AOB and ∆CO’D, we have<br>
+AB = CD [Given]<br>
+OA = O’C [Each equal to r]<br>
+OB = O’D [Each equal to r]<br>
+∴ ∆AOB ≅ ∆CO’D [By SSS congruence criteria]<br>
+⇒ ∠AOB = ∠CO’D [C.P.C.T.]<br>
+
+<p>Ex 10.2 Class 9 Maths&nbsp;Question 2.<br>
+    Prove that, if chords of congruent circles subtend equal angles at their centres, then the chords are equal.<br>
+    Solution:<br>
+    Given: Two congruent circles with centres O &amp; O’ and radii r which have chords AB and CD respectively such that ∠AOB = ∠CO’D.<br>
+    <img loading="lazy" class="alignnone size-full wp-image-103324" src="https://www.learncbse.in/wp-content/uploads/2020/10/NCERT-Solutions-for-Class-9-Maths-Chapter-10-Circles-Ex-10.2-Q2.png" alt="NCERT Solutions for Class 9 Maths Chapter 10 Circles Ex 10.2 Q2" width="243" height="111"><br>
+    To Prove: AB = CD<br>
+    Proof: In ∆AOB and ∆CO’D, we have<br>
+    OA = O’C [Each equal to r]<br>
+    OB = O’D [Each equal to r]<br>
+    ∠AOB = ∠CO’D [Given]<br>
+    ∴ ∆AOB ≅ ∆CO’D [By SAS congruence criteria]<br>
+    Hence, AB = CD [C.P.C.T.]</p>
+</body>
+</html>
